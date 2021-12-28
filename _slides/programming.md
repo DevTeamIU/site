@@ -26,4 +26,5 @@ slides:
   - processing-ide 
   - learntomod
   - javascript
+  - scratch
 ---
