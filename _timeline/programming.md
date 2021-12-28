@@ -25,4 +25,5 @@ events:
   - processing-ide 
   - learntomod
   - javascript
+  - scratch
 ---
