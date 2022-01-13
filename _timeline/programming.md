@@ -24,5 +24,6 @@ events:
   - eclipse-ide
   - processing-ide 
   - learntomod
+  - python
   - swift
 ---
