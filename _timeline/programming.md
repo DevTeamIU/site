@@ -26,4 +26,6 @@ events:
   - learntomod
   - javascript
   - php
+  - matlab
+  - perl
 ---
