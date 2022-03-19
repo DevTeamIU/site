@@ -26,4 +26,6 @@ events:
   - learntomod
   - python
   - swift
+  - uml
+  - lisp
 ---
