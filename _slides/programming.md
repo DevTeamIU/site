@@ -27,4 +27,6 @@ slides:
   - learntomod
   - python
   - swift
+  - uml
+  - lisp
 ---
