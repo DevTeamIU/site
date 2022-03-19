@@ -27,4 +27,6 @@ slides:
   - learntomod
   - javascript
   - php
+  - matlab
+  - perl
 ---
