@@ -1,13 +1,13 @@
 ---
 author: p18kout
-title: ""
+title: "Designing interactive apps with Matlab App Designer"
 image_url: /images/appdesigner.png
-caption: ""
+caption: "Το Matlab App Designer είναι μια πλατφόρμα που σας επιτρέπει να προγραμματίζετε και να αναπτύσσετε εφαρμογές χωρίς να χρειάζεται να είστε προγραμματιστής υπολογιστών."
 categories:
   - case-study
   - models
 tags:
-  - app designer
+  - appdesigner
   - mathworks
 ---
 
