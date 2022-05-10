@@ -29,7 +29,5 @@ events:
   - weiser-tab-pad-board
   - digital-desk
   - lifestreams
-  - artixlinux
-  - runit
 ---
 
