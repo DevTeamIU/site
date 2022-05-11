@@ -13,3 +13,4 @@ tags:
   - djbDNS
 ---
 
+{% include bio-nolan.md %}
