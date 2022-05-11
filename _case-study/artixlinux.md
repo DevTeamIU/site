@@ -12,3 +12,5 @@ tags:
   - Linux
 ---
 
+{% include cs-artixlinux.md %}
+
