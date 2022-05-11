@@ -13,4 +13,4 @@ tags:
   - djbDNS
 ---
 
-{% include bio-bernstein.md %}
+{% include bernstein.md %}
