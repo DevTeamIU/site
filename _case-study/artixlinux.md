@@ -12,4 +12,3 @@ tags:
   - Linux
 ---
 
-{% include artixlinux.md %}
