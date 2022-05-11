@@ -13,4 +13,3 @@ tags:
   - djbDNS
 ---
 
-{% include bernstein.md %}
