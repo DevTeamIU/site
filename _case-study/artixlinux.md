@@ -10,6 +10,7 @@ tags:
   - ArtixLinux
   - ArchLinux
   - Linux
+  - Manjaro OpenRC
 ---
 
 {% include cs-artixlinux.md %}
